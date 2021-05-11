@@ -4,7 +4,6 @@ Clone or fork this repository to get the starting template for the assessment. E
 
 ## Overview and Objectives
 
-*** note ***
 <br>
 You will be consuming the Recipe Puppy API (http://www.recipepuppy.com/about/api/) to show some items in a list.
 
